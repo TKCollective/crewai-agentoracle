@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+crewai_agentoracle/__init__.py
+crewai_agentoracle/tools.py
+crewai_agentoracle.egg-info/PKG-INFO
+crewai_agentoracle.egg-info/SOURCES.txt
+crewai_agentoracle.egg-info/dependency_links.txt
+crewai_agentoracle.egg-info/requires.txt
+crewai_agentoracle.egg-info/top_level.txt
